@@ -1,5 +1,7 @@
 # 🛡️ PhishGuard AI  
 
+Note: This application is currently under construction and will be implemented in the form of a chrome extension
+
 PhishGuard AI is an **AI-powered phishing email detector** designed to protect users from malicious emails.
 It leverages **Natural Language Processing (NLP)** and **Machine Learning models** to analyze email content, detect phishing attempts, and provide actionable security insights.  
 
